@@ -1,0 +1,9 @@
+name: Bedwars
+version: 1.0.0
+main: com.yourname.bedwars.BedwarsPlugin
+api-version: 1.8
+commands:
+  bw:
+    description: Bedwars root command
+  rejoin:
+    description: Rejoin game

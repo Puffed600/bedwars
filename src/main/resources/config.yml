@@ -1,0 +1,13 @@
+disable-fall-damage: true
+fireball:
+  jump-radius: 5.0
+  jump-power: 1.6
+tnt:
+  jump-power: 1.4
+timeline:
+  diamond-tier-2: 300
+  emerald-tier-2: 660
+  diamond-tier-3: 1020
+  emerald-tier-3: 1380
+  bed-destruction: 1740
+  hard-end: 2940
